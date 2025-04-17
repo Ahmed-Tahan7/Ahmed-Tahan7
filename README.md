@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 * 🌍  I'm based in Alexandria, Egypt
 * ✉️  You can contact me at [ahmed.tahan71@gmail.com](mailto:ahmed.tahan71@gmail.com)
-* 🤝  I'm open to collaborating on Open Source Projects, Real World Apllications with an impact
+* 🤝  I'm open to collaborating on open-source projects and real-world applications with an impact
 
 ### Skills
 
